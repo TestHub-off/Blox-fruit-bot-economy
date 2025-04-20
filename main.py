@@ -123,7 +123,7 @@ intents.message_content = True
 intents.members = True
 bot = commands.Bot(command_prefix="?", intents=intents)
 
-IMAGE_API_KEY = "TestHub-FqgYrvBnmyLFqqwK1v0LigEu"
+IMAGE_API_KEY = "KEY"
 IMAGE_API_URL = "https://test-hub.kys.gay/api/image"
 
 AUDIO_API_KEY = "your_api_key"
